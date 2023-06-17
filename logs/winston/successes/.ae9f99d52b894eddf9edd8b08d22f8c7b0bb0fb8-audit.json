@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\ASUS VIVOBOOK\\OneDrive\\Desktop\\New Project\\logs\\winston\\successes\\.ae9f99d52b894eddf9edd8b08d22f8c7b0bb0fb8-audit.json",
+    "files": [
+        {
+            "date": 1686969988671,
+            "name": "C:\\Users\\ASUS VIVOBOOK\\OneDrive\\Desktop\\New Project\\logs\\winston\\successes\\phu-2023-17-06-08-success.log",
+            "hash": "d46ffbe2465c8a1bd2394c832dcfb48dd88aea74c6148be951bf47470289b416"
+        }
+    ],
+    "hashType": "sha256"
+}
