@@ -1,20 +1,15 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "C:\\Users\\ASUS VIVOBOOK\\OneDrive\\Desktop\\New Project\\logs\\winston\\successes\\.ae9f99d52b894eddf9edd8b08d22f8c7b0bb0fb8-audit.json",
-  "files": [
-    {
-      "date": 1686969988671,
-      "name": "C:\\Users\\ASUS VIVOBOOK\\OneDrive\\Desktop\\New Project\\logs\\winston\\successes\\phu-2023-17-06-08-success.log",
-      "hash": "d46ffbe2465c8a1bd2394c832dcfb48dd88aea74c6148be951bf47470289b416"
+    "keep": {
+        "days": true,
+        "amount": 14
     },
-    {
-      "date": 1686972038958,
-      "name": "C:\\Users\\ASUS VIVOBOOK\\OneDrive\\Desktop\\New Project\\logs\\winston\\successes\\phu-2023-17-06-09-success.log",
-      "hash": "89cd71ee26d2802da2467be550e1a5eb545bfd0aa30d2b62de6a9b5e04cfedf6"
-    }
-  ],
-  "hashType": "sha256"
+    "auditLog": "C:\\Users\\ASUS VIVOBOOK\\OneDrive\\Desktop\\New Project\\logs\\winston\\successes\\.ae9f99d52b894eddf9edd8b08d22f8c7b0bb0fb8-audit.json",
+    "files": [
+        {
+            "date": 1687008817929,
+            "name": "C:\\Users\\ASUS VIVOBOOK\\OneDrive\\Desktop\\New Project\\logs\\winston\\successes\\phu-2023-17-06-19-success.log",
+            "hash": "b1c8dcf54c7a684570e531c7343c884fa9a2bc878058aaba237cfc2741bb96cd"
+        }
+    ],
+    "hashType": "sha256"
 }
